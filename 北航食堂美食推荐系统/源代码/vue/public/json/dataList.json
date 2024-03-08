@@ -1,0 +1,126 @@
+{
+  "code": "000000",
+  "msg": "温馨提示: json格式的key需要用双引号引起来，方便接口请求时能够正确解析出json数据",
+
+  
+  "dish":{  
+    "id": 6,
+    "name": "酱肘子",
+    "image": "/images/酱肘子.png",
+    "hall": "合一食堂",
+    "tags": ["辣","麻"],
+    "purchase": 114514,
+    "comment": 2,
+    "likes": 5,
+    "score": 3.3,
+    "comments": [
+      {
+      "commentname" : "114514",
+      "time" : "2023-7-24 16:10:00",
+      "rate" : 4,
+      "support" : 10,
+      "content" : "24岁，是学生",
+        "subcomments":[
+          {
+            "initcommentid": 6,
+            "commentedname": "王爷",
+            "commentername": "小人",
+            "time": "time",
+            "support": 0,
+            "content": "多日不见，您想小人吗"
+          },
+          {
+            "initcommentid": 6,
+            "commentedname": "小人",
+            "commentername": "王爷",
+            "time": "time",
+            "support": 0,
+            "content": "想啊，很想啊"
+          }
+        ]
+      },
+      {
+        "commentname" : "123",
+        "time" : "2023-7-24 16:10:00",
+        "rate" : 4,
+        "support" : 10,
+        "content" : "24岁，是学生",
+          "subcomments":[
+            {
+              "initcommentid": 6,
+              "commentedname": "王爷",
+              "commentername": "小人",
+              "time": "time",
+              "support": 0,
+              "content": "多日不见，您想小人吗"
+            },
+            {
+              "initcommentid": 6,
+              "commentedname": "小人",
+              "commentername": "王爷",
+              "time": "time",
+              "support": 0,
+              "content": "想啊，很想啊"
+            }
+          ]
+        }
+    ]
+  },
+  "data": [
+    {
+      "id": 1,
+      "cover": "/images/香辣牛肉粉.webp",
+      "sign": "香辣牛肉粉"
+    },
+    {
+      "id": 2,
+      "cover": "/images/红豆小米粥.jpg",
+      "sign": "红豆小米粥"
+    },
+    {
+      "id": 3,
+      "cover": "/images/过油肉拌面.webp",
+      "sign": "过油肉拌面"
+    },
+    {
+      "id": 4,
+      "cover": "/images/金汤肥牛面.jpg",
+      "sign": "金汤肥牛面"
+    },
+    {
+      "id": 5,
+      "cover": "/images/千叶豆腐.png",
+      "sign": "千叶豆腐"
+    },
+    {
+      "id": 6,
+      "cover": "/images/酱肘子.png",
+      "sign": "酱肘子"
+    },
+    {
+      "id": 7,
+      "cover": "/images/杏鲍菇炒肉.jpg",
+      "sign": "杏鲍菇炒肉"
+    },
+    {
+      "id": 8,
+      "cover": "/images/素什锦拌饭.webp",
+      "sign": "素什锦拌饭"
+    },
+    {
+      "id": 9,
+      "cover": "/images/白菜回锅肉.jpg",
+      "sign": "白菜回锅肉"
+    },
+    {
+      "id": 10,
+      "cover": "/images/铁板滑蛋牛柳.jpeg",
+      "sign": "铁板滑蛋牛柳"
+    },
+    {
+      "id": 11,
+      "cover": "/images/杭椒肉丝.webp",
+      "sign": "杭椒肉丝"
+    }
+  ]
+}
