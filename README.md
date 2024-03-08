@@ -1,1 +1,2 @@
-# django+vue项目
+# BUAA-Food-Recommendation-System
+django+vue项目
